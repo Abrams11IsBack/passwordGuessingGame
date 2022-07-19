@@ -59,6 +59,6 @@ while not didWin:
             print("\033[1;33;10m brawo bambusie zlamales kod") #ignore polish here it basically says that u got it yee(no need to translate)
             didWin = True
         else:
-            print("\033[1;33;10m debil")
+            print("\033[1;33;10m debil") #ignore it too just assume is says oops! you are wrong
     else:
         print("guess is not " + str(lenghtCode) + " numbers long")
